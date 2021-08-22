@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://stephendltg.netlify.app'
 title = "stephendltg"
 theme = "hugo-coder"
 languageCode = "en"
@@ -22,7 +22,7 @@ hideFooter = false
 hideCredits = true
 hideCopyright = false
 since = 2021
-commit = "https://github.com/luizdepra/hugo-coder/tree/"
+commit = "https://github.com/stephendltg/mysite/tree/"
 rtl = false
 colorScheme = "auto"
 hideColorSchemeToggle = false
