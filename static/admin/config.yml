@@ -3,7 +3,7 @@ backend:
   repo: stephendltg/mysite
   branch: master
 
-public_folder: "static"
+public_folder: "/images"
 media_folder: "static/images"
 
 collections:
