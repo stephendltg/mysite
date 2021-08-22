@@ -8,4 +8,4 @@ tags:
   - golang
 draft: false
 ---
-![](static/N90.jpg)
+![](/static/images/N90.jpg)
