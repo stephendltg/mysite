@@ -14,7 +14,7 @@ enableEmoji = true
 author = "stephendltg"
 description = "Stephendltg's personal website"
 keywords = "blog,developer,personal"
-info = ["Full Stack DevOps", "Magician"]
+info = ["", "Full Stack DevOps"]
 avatarURL = "https://avatars.githubusercontent.com/u/10052911"
 footerContent = "One day ..."
 dateFormat = "January 2, 2006"
@@ -52,7 +52,7 @@ url = "https://twitter.com/stephendltg/"
 name = "LinkedIn"
 icon = "fa fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/stephendltg/"
+url = "https://www.linkedin.com/in/stephen-deletang/"
 
 [[languages.en.menu.main]]
 name = "About"
