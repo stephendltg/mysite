@@ -1,0 +1,23 @@
+backend:
+  name: github
+  repo: stephendltg/mysite
+  branch: master
+
+public_folder: "static"
+media_folder: "static/images"
+
+collections:
+  - name: "post"
+    label: "Post"
+    folder: "content/posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Body", name: "body", widget: "markdown"}
+      
