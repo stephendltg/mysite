@@ -7,3 +7,6 @@ server:
 
 build: 
 	hugo -D
+
+theme:
+	git submodule add https://github.com/luizdepra/hugo-coder.git themes/hugo-coder
