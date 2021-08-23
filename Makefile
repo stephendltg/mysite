@@ -17,12 +17,6 @@ install:
 	curl -fsSL https://deno.land/x/install/install.sh | sh
 	deno upgrade --version ${DENO}
 
-server:
-	hugo server -D
-
-build: 
-	hugo -D
-
 theme:
 	git submodule add https://github.com/luizdepra/hugo-coder.git themes/hugo-coder
 
