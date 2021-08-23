@@ -21,9 +21,6 @@
       "deno": "deno run --allow-all --watch hugo.ts",
       "deno:tools": "deno info && deno fmt hugo.ts && deno lint hugo.ts"
     },
-    "bin": {
-      "gmqtt": "cli.js"
-    },
     "repository": {
       "type": "git",
       "url": "git+https://github.com/stephendltg/mysite.git"
