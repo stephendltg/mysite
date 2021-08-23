@@ -19,6 +19,10 @@ hugo [options]
   serve     hugo serve
   -D    hugo with draft
   version   hugo version
+  new site [path]   hugo create new site
+  new theme [name]   hugo create new theme
+  new [path ex:posts/my-first-post.md]   hugo create new content
+  
 
 ```
 
