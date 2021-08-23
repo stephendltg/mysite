@@ -1,0 +1,46 @@
+{
+    "name": "mysite",
+    "version": "0.0.1",
+    "description": "My personnal site",
+    "os": [
+      "darwin",
+      "linux",
+      "win32"
+    ],
+    "contributors": [
+      "stephen@epyo.eu"
+    ],
+    "scripts": {
+      "prepare": "husky install",
+      "release": "standard-version",
+      "prerelease": "standard-version -- --prerelease",
+      "fix": "standard-version -- --release-as minor",
+      "bin": "bin/hugo-linux-amd64",
+      "deno": "deno run --allow-all --watch hugo.ts",
+      "deno:tools": "deno info && deno fmt hugo.ts && deno lint hugo.ts"
+    },
+    "bin": {
+      "gmqtt": "cli.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/stephendltg/mysite.git"
+    },
+    "keywords": [
+      "golang",
+      "mqtt"
+    ],
+    "author": "stephendltg",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/stephendltg/mysite/issues"
+    },
+    "homepage": "https://github.com/stephendltg/mysite#readme",
+    "devDependencies": {
+      "@commitlint/cli": "^13.1.0",
+      "@commitlint/config-conventional": "^13.1.0",
+      "husky": "^7.0.1",
+      "standard-version": "^9.3.1"
+    }
+  }
+  
