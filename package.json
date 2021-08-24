@@ -17,8 +17,8 @@
       "fix": "standard-version -- --release-as minor",
       "bin": "bin/hugo-linux-amd64",
       "dev": "deno run --allow-all hugo.ts server -D",
-      "build": "deno run --allow-all hugo.ts",
-      "deno": "deno run --allow-all --watch hugo.ts",
+      "build": "deno run --allow-all --unstable hugo.ts",
+      "deno": "deno run --allow-all --unstable --watch hugo.ts",
       "deno:tools": "deno info && deno fmt hugo.ts && deno lint hugo.ts"
     },
     "repository": {
