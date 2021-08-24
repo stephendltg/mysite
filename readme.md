@@ -10,7 +10,7 @@ Hugo is one of the most popular open-source static site generators. With its ama
 **Deno**
 
 ```
-deno install -f -A hugo.ts
+deno install -f -A --unstable hugo.ts
 ```
 
 ```
