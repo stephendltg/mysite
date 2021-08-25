@@ -1,11 +1,11 @@
 #!/usr/bin/env deno run --allow-env --allow-run --allow-read --allow-write --unstable
 
-import { join } from "https://deno.land/std@0.104.0/path/mod.ts";
-import * as log from "https://deno.land/std@0.104.0/log/mod.ts";
+import { join } from "https://deno.land/std@0.106.0/path/mod.ts";
+import * as log from "https://deno.land/std@0.106.0/log/mod.ts";
 import {
   copy,
   readerFromStreamReader,
-} from "https://deno.land/std@0.104.0/io/mod.ts";
+} from "https://deno.land/std@0.106.0/io/mod.ts";
 import { existsSync } from "https://deno.land/std@0.106.0/fs/mod.ts";
 
 const __dirname = new URL(".", import.meta.url).pathname;
