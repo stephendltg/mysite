@@ -13,6 +13,8 @@ draft: false
 ---
 ### **Technicien web et data dans la collectivité de redon agglomération**
 
+> Redon agglomération est une collectivité au services de 30 communes réparti sur 3 départements.
+
 Principalement des missions sur des applicatifs métiers et site web.
 
 Mise en place de repository pour l’ensemble des code sources (quand il y’a rien, c’est pas top pour le suivi du code). #git
@@ -28,6 +30,5 @@ Développement et architecture d´un serveur de monitoring pour les differents s
 Programmation d´un crawler pour benchmark, seo et snapshot de rendu des diffrents sites. Vérification erreur404, status des liens internes et externes, balise titre, balise meta, etc... #Nodejs
 
 Accompagnement et configuration pour mise en place d´une e-boutique par service tiers. #mouse
-
 
 **De belle rencontre, mais beaucoup de click....**
