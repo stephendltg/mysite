@@ -18,6 +18,6 @@ Mise en place et programmation d’une GMAO (gestion des interventions et des st
 
 Mise en place des plans de maintenance.
 
-MaintenaNice corrective et préventive.
+Maintenace corrective et préventive.
 
 **Aucun commentaire, c’est là grande distribution. J’y ai appris la magie de tout faire avec uniquement un tournevis et une barre à mine (gros moyen).**
