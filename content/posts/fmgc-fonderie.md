@@ -6,7 +6,7 @@ description: Technicien - automaticien
 tags:
   - Électromécanique
   - automaticien
-draft: true
+draft: false
 ---
 ### Technicien automaticien
 
