@@ -10,6 +10,7 @@ tags:
   - C
   - Basic
   - Pascal
+  - Électromécanique
 draft: false
 ---
 ### Technicien de maintenance
