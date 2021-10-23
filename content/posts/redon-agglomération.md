@@ -7,7 +7,8 @@ tags:
   - Work
   - PHP
   - Nodejs
-  - Golang
+  - WordPress
+  - Drupal
 draft: false
 ---
 ### **Technicien web et data dans la collectivité de redon agglomération**
