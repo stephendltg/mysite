@@ -1,6 +1,6 @@
 ---
 title: SCA OUEST
-date: 2021-10-23T21:16:50.701Z
+date: 2018-07-01T21:16:50.701Z
 author: stephendltg
 description: Technicien automaticien
 tags:
