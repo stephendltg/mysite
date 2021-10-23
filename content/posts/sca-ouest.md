@@ -6,7 +6,7 @@ description: Technicien automaticien
 tags:
   - Automatisme
   - Php
-draft: true
+draft: false
 ---
 ### Technicien automaticien
 
