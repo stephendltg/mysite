@@ -16,3 +16,5 @@ tags:
 draft: false
 ---
 ### **Charge d’étude et du développement**
+
+> Epyo est une startup dont le principal produit est le geste connecté destiné à la logistique.
