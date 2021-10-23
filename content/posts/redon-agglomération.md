@@ -13,7 +13,7 @@ draft: false
 ---
 ### **Technicien web et data dans la collectivité de redon agglomération**
 
-> Redon agglomération est une collectivité au services de 30 communes réparti sur 3 départements.
+> Redon agglomération est une collectivité au services de 30 communes répartient sur 3 départements.
 
 Principalement des missions sur des applicatifs métiers et site web.
 
