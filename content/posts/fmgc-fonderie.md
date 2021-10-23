@@ -5,7 +5,7 @@ author: stephendltg
 description: Technicien - automaticien
 tags:
   - Électromécanique
-  - automaticien
+  - Automatisme
 draft: false
 ---
 ### Technicien automaticien
