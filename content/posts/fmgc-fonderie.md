@@ -17,4 +17,4 @@ Les missions, maintenir les équipements de production Cubilot, pont de levage, 
 
 \
 \
-**Il fait très chaud dans une fonderie, et j’ai perdu la pilosité de mon arrière train. Mission de 2 mois: 2 accidents de travail, un décès, un incendie sur une pièce en fusion. Je déconseille fortement ou sinon faut aimer l’ambiance Germinal.**
+**Il fait très chaud dans une fonderie, et j’ai perdu la pilosité de mon arrière train. C´est de l'industrie lourde donc il faut etre constament vigilant, un accident grave est vite arrivée.**
