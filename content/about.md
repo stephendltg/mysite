@@ -8,7 +8,7 @@ author = "stephendltg"
 
 Hi,
 
-I am stephen, developper back-end. I program with nodejs, deno and golang right now. I like the functional programming.
+I am stephen, developper back-end & colorblind. I program with nodejs, deno and golang right now. I like the functional programming.
 
 Why nodejs and deno? the v8 motor is just fantastic and the event loop is just famous. Nodejs/deno is easy to learn, extensible, fast and very fun.
 
@@ -20,7 +20,7 @@ I hate java and dotnet.
 
 Bonjour,
 
-Je suis stephen, programmeur. En ce moment, je programme sur nodejs, deno et golang. J'aime la programmation fonctionnelle.
+Je suis stephen, programmeur et daltonien. En ce moment, je programme sur nodejs, deno et golang. J'aime la programmation fonctionnelle.
 
 Pourquoi nodejs ou deno? le moteur v8 est vraiment fantastique et la boucle d'evênement est juste excellente. Nodejs/deno est facile a apprendre, extensible, rapide et surtout très cool.
 
