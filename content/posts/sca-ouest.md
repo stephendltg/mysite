@@ -21,4 +21,4 @@ Mise en place des plans de maintenance.
 
 Maintenance corrective et préventive.
 
-**Aucun commentaire, c’est là grande distribution. J’y ai appris la magie de tout faire avec uniquement un tournevis et une barre à mine (gros moyen).**
+**Aucun commentaire, c’est là grande distribution et cela sera ma dernière mission en tant que technicien.**
