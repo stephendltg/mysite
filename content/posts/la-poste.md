@@ -11,4 +11,4 @@ draft: false
 
 Agent de tri postal.
 
-**Emploi de nuit en attendant de trouver un poste de technicien. Rencontre avec des gens plein de gentillesse.**
+**Emploi de nuit en attendant de trouver un poste de technicien.**
