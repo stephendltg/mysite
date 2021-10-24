@@ -10,3 +10,4 @@ Un nouveau souffle musicale, avec les synthetiseurs. Concevoir des sons a partir
 
 ## GAMES
 
+J´aime les jeux de société de type Deck building & JCE (jeux de carte à collectionner). Mon favori est "le seigneur des anneaux" (EDGE) puis vient des jeux comme "Ascension" (Asmode).
