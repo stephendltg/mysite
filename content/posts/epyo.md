@@ -19,7 +19,7 @@ draft: false
 
 > Epyo est une startup dont le principal produit est le geste connecté destiné à la logistique.
 
-Test & review code application android (développer par un ingénieur qui n’aime pas les tests! On code et de toute façon, il y a un gars qui test! Sur un mal entendu ça peut passer !). Création de nouveau gestes métier. #xamarin #Nodejs #android-studio #Open-STF #Beacon #Bluetooth
+Test & review code application android (développer par un ingénieur qui n’aime pas les tests! On code et de toute façon, il y a un gars qui test! Sur un mal entendu ça peut passer !). Création de nouveau gestes métiers. #xamarin #Nodejs #android-studio #Open-STF #Beacon #Bluetooth
 
 Support, formation intégrateur & partenaires.
 
@@ -27,7 +27,7 @@ Architecture logiciel orienté micro-service.  Développement api-rest, moissonn
 
 Support logiciel, debug, versioning et featuring. #Nodejs #Php #Postgres
 
-Support et développement applications android. #java #androidstudio #Flutter #Dart #Capacitor #Open-STF
+Support et développement applications android. #Java #Kotlin #androidstudio #Flutter #Dart #Capacitor #Open-STF
 
 Support hardware matériel et balise Bluetooth. Développement d’un analyseur de signal Bluetooth. #RadiusNetwork #Minew #Zebra #Honeywell #Samsung #Golang
 
@@ -43,6 +43,6 @@ Gestion de projets clients.
 
 Référent technique pour stagiaires.
 
-Mailing template, documentation technique, preparation banc de test, recettage, etc…
+Mailing template, documentation technique, preparation banc de test, Dashboard BI, recettage, etc…
 
 **Une expérience riche en volume de travail avec peu de moyen humain (merci Martin de m’avoir rejoins). J’ai appris à coder vite parfois au détriment de test. Attention! une preuve de concept peut souvent partir en production. Ce premier poste de développeur fulltime m’a permis de prendre confiance donc pas de regret.**
