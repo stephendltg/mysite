@@ -19,23 +19,23 @@ draft: false
 
 > Epyo est une startup dont le principal produit est le geste connecté destiné à la logistique.
 
-Test & review code application android (développer par un ingénieur qui n’aime pas les tests unitaires!). Création de nouveau gestes métiers. #xamarin #Nodejs #android-studio #Open-STF #Beacon #Bluetooth
+Test & review code application android (développer par un ingénieur qui n’aime pas les tests unitaires!). Création de nouveau gestes métiers. *\#xamarin #Nodejs #android-studio #Open-STF #Beacon #Bluetooth*
 
 Support, formation intégrateur & partenaires.
 
-Architecture logiciel orienté micro-service.  Développement api-rest, moissonneur de data. Mise en place d’outils de monitoring et d’analyse de data. #Docker #Elasticsearch #Nodejs #influxDB #MQTT #Redis #Php #Grafana #MariaDB
+Architecture logiciel orienté micro-service.  Développement api-rest, moissonneur de data. Mise en place d’outils de monitoring et d’analyse de data. *\#Docker #Elasticsearch #Nodejs #influxDB #MQTT #Redis #Php #Grafana #MariaDB*
 
-Support logiciel, debug, versioning et featuring. #Nodejs #Php #Postgres
+Support logiciel, debug, versioning et featuring. *\#Nodejs #Php #Postgres*
 
-Support et développement applications android. #Java #Kotlin #androidstudio #Flutter #Dart #Capacitor #Open-STF
+Support et développement applications android. *\#Java #Kotlin #androidstudio #Flutter #Dart #Capacitor #Open-STF*
 
-Support hardware matériel et balise Bluetooth. Développement d’un analyseur de signal Bluetooth. #RadiusNetwork #Minew #Zebra #Honeywell #Samsung #Golang
+Support hardware matériel et balise Bluetooth. Développement d’un analyseur de signal Bluetooth. *\#RadiusNetwork #Minew #Zebra #Honeywell #Samsung #Golang*
 
-Développement applications web - PWA. #Vuejs #Alpinejs #Scss #Prime-vue #Nodejs
+Développement applications web - PWA. *\#Vuejs #Alpinejs #Scss #Prime-vue #Nodejs*
 
-Développement application vidéo-tracking. #Nodejs #MariaDB #Vuejs #XProtect-milestone #Shinobi #Synology
+Développement application vidéo-tracking. *\#Nodejs #MariaDB #Vuejs #XProtect-milestone #Shinobi #Synology*
 
-Mise en production de stack technique. #Cloud #Virtual-machine
+Mise en production de stack technique. *\#Cloud #Virtual-machine*
 
 Lead développeur, accompagnement et architecture pour développeur front-end.
 
