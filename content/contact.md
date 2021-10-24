@@ -5,4 +5,4 @@ slug = "contact"
 
 Follow me, @stephendltg.
 
-![Text](/images/me.JPG)
+![Text](/images/me.JPG "stephen test le tram-train")
