@@ -11,7 +11,7 @@ Bonjour,
 
 Je suis stephen, 45ans, programmeur et daltonien. Marié et père de trois enfants et d´un chat (philippe).
 
-Je suis de formation, technicien en électrotechnique et autoditact en programmation depuis l´âge de 13ans (Atari).
+Je suis de formation, technicien en électrotechnique et autoditact en programmation depuis l´âge de 13ans [Atari](https://www.youtube.com/watch?v=gA-euwYrAzw).
 
 Je programme sur nodejs, deno et golang. J'aime la programmation fonctionnelle et faire des tests (nul n´est infaillible). Je suis têtu (un peu de sang breton) surtout pour la recherche de bug ou d'anomalie.
 
