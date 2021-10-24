@@ -33,7 +33,7 @@ Support hardware matériel et balise Bluetooth. Développement d’un analyseur 
 
 Développement applications web - PWA. #Vuejs #Alpinejs #Scss #Prime-vue #Nodejs
 
-Développement application vidéo-tracking. #Nodejs #MariaDB #Vuejs
+Développement application vidéo-tracking. #Nodejs #MariaDB #Vuejs #XProtect-milestone #Shinobi #Synology
 
 Mise en production de stack technique. #Cloud #Virtual-machine
 
