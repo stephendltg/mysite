@@ -19,7 +19,7 @@ draft: false
 
 > Epyo est une startup dont le principal produit est le geste connecté destiné à la logistique.
 
-Test & review code application android (développer par un ingénieur qui n’aime pas les tests! On code et de toute façon, il y a un gars qui test! Sur un mal entendu ça peut passer !). Création de nouveau gestes métiers. #xamarin #Nodejs #android-studio #Open-STF #Beacon #Bluetooth
+Test & review code application android (développer par un ingénieur qui n’aime pas les tests unitaires!). Création de nouveau gestes métiers. #xamarin #Nodejs #android-studio #Open-STF #Beacon #Bluetooth
 
 Support, formation intégrateur & partenaires.
 
