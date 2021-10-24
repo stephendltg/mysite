@@ -12,4 +12,6 @@ draft: false
 
 Le 15 novembre, une nouvelle histoire et de nouvelles rencontres.
 
+Choisir shopopop, pour moi, c’est avant tout rejoindre une équipe et d’adhérer à une philosophie d’entraide. 
+
 ![](/images/shopopop.PNG "Shopopop")
