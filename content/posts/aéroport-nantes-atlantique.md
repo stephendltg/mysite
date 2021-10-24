@@ -17,11 +17,11 @@ draft: false
 
 > CCI / Vinci Airport gestionnaire de l’aéroport de Nantes Atlantique
 
-**Mission principal:** maintenir les équipements aéroport portuaire spécialisé en haute tension et en balisage lumineux aéroportuaire.
+**Mission principal:** maintenir les équipements aéroportuaire spécialisé en haute tension et en balisage lumineux aéronefs.
 
 Programmation automate industrielle. #Telemecanique #Omron #kloeckner-moeller
 
-Programmation supervIsion GTB, GTC. #PcVue
+Programmation supervision GTB, GTC. #PcVue
 
 Développement plugins PcVue. #C #VBScript
 
