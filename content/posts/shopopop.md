@@ -10,9 +10,6 @@ draft: false
 ---
 ### Développeur Nodejs
 
-\
-Une nouvelle histoire et de nouvelles rencontres.
-
-
+Le 15 novembre, une nouvelle histoire et de nouvelles rencontres.
 
 ![](/images/shopopop.PNG "Shopopop")
