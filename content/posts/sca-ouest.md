@@ -15,7 +15,7 @@ draft: false
 
 Mission: organiser les équipes et maintenir les systemes automatisés.
 
-Mise en place et programmation d’une GMAO (gestion des interventions et des stocks pièces détachés). #PHP
+Mise en place et programmation d’une GMAO (gestion des interventions et des stocks pièces détachés). *\#PHP*
 
 Mise en place des plans de maintenance.
 
