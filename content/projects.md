@@ -5,16 +5,16 @@ slug = "projects"
 
 ## CODING
 
-J'ai commencer a coder comme beaucoup de personnes de ma generation sur atari ou commodor64 (on achetait des livres de code sources). Puis l´arrivée d´internet et de nouveaux languages comme le php et le vbscript. Aujourd´hui, je programme par plaisir sur ipad ou sur raspberry400 principalement en nodejs, deno et golang (coder sur des petites machines m´oblige a etre plus vigilant sur les ressources et les performances, ce qui est bon pour l´environnement car moins d´energie). J´aime mélanger les technologies un peu comme si on composait un morceaux de musique. Un bon worklow bien preparé et on se concentre uniquement sur le code!
+J'ai commencer a coder comme beaucoup de personnes de ma generation sur atari ou commodor64 (on achetait des livres de code sources). Puis l´arrivée d´internet et de nouveaux languages comme le php et le vbscript (l'ancêtre du javascript). Aujourd´hui, je programme par plaisir sur ipad ou sur raspberry400 principalement en nodejs, deno et golang (coder sur des petites machines m´oblige a etre plus vigilant sur les ressources et les performances, ce qui est bon pour l´environnement car moins d´energie). J´aime mélanger les technologies un peu comme si on composait un morceaux de musique. Un bon worklow bien preparé et on se concentre uniquement sur le code!
 
 ## MUSIC
 
 J´ai commencer le piano en autodictact à 11ans avec la ferme intention de devenir pianiste et de jouer le concerto n°1 de Tchaïkovski. Après 10ans d´étude de musique classique, je me résoud à ne pas être pianiste (l´apprentissage en autoditact a engendrer des erreurs de placement, du coup impossible d'acceder au conservatoire). 
-Un nouveau souffle musicale, avec les synthetiseurs. Concevoir des sons a partir d'ondes sonores, une nouvelle passion qui me permettra de collectionner plusieurs machines (cela prends de la place ...). Mon top des synthetiseurs: juno106 (roland), microfreak (arturia), JX3P (roland), SY22 (yamaha).
+Un nouveau souffle musicale, avec les synthetiseurs. Concevoir des sons a partir d'ondes sonores, une nouvelle passion qui me permettra de collectionner plusieurs machines. Mon top des synthetiseurs: juno106 (roland), microfreak (arturia), JX3P (roland), SY22 (yamaha).
 
 ## GAMES
 
-J´aime les jeux de société de type Deck building & JCE (jeux de carte à collectionner). Mon favori est "le seigneur des anneaux" (EDGE) puis vient des jeux comme "Ascension" (Asmode).
+J´aime les jeux de société de type Deck building & JCE (jeux de carte à collectionner). Mon favori est "le seigneur des anneaux" (EDGE) et des jeux comme "Ascension" (Asmodee).
 
 ## GRAPHIC
 
