@@ -4,6 +4,7 @@ date: 2018-05-02T21:02:56.870Z
 author: stephendltg
 description: Technicien - automaticien
 tags:
+  - Work
   - Électromécanique
   - Automatisme
 draft: false
