@@ -12,16 +12,16 @@ enableEmoji = true
 
 [params]
 author = "stephendltg"
-description = "Stephendltg's personal website"
+description = "Stephendltg's personal CV"
 keywords = "blog,developer,personal"
-info = ["", "Developper back-end Nodejs"]
+info = ["", "Developper back-end Nodejs/Golang"]
 avatarURL = "https://avatars.githubusercontent.com/u/10052911"
-footerContent = "SHOPOPOP"
+footerContent = "my CV"
 dateFormat = "January 2, 2006"
 hideFooter = false
 hideCredits = true
 hideCopyright = false
-since = "November 15"
+since = "Febrary 2"
 commit = "https://github.com/stephendltg/mysite/tree/"
 rtl = false
 colorScheme = "auto"
@@ -40,7 +40,7 @@ author = "authors"
 name = "Github"
 icon = "fa fa-github"
 weight = 1
-url = "https://github.com/stephendltg/"
+url = "https://github.com/stephend-shopopop/"
 
 [[params.social]]
 name = "Twitter"
