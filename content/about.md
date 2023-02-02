@@ -9,7 +9,7 @@ author = "stephendltg"
 
 Bonjour,
 
-Je suis stephen, 45ans, programmeur et daltonien. Marié et père de trois enfants et d´un chat (philippe).
+Je suis stephen, 45ans, programmeur et daltonien. Marié et père de trois enfants.
 
 Je suis de formation, technicien en électrotechnique et autoditact en programmation depuis l´âge de 13ans [Atari](https://www.youtube.com/watch?v=gA-euwYrAzw).
 
