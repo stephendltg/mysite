@@ -6,6 +6,15 @@ description: Développeur Nodejs
 tags:
   - Work
   - Nodejs
+  - Python
+  - Postgres
+  - MySQL
+  - elasticsearch
+  - rabbit
+  - redis
+  - mongoDb
+  - Docker
+  - Kube
 draft: false
 ---
 ### Développeur Nodejs/Typescript
