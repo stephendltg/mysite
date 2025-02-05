@@ -1,7 +1,7 @@
 +++
 title = "About"
 description = "Stephendltg developper backend"
-date = "2021-10-23"
+date = "2025-01-23"
 aliases = ["about-me", "about-stephendltg", "contact"]
 author = "stephendltg"
 +++
@@ -9,7 +9,7 @@ author = "stephendltg"
 
 Bonjour,
 
-Je suis stephen, 45ans, programmeur et daltonien. Marié et père de trois enfants.
+Je suis stephen, 48 ans, programmeur et daltonien (deutoronope). Marié et père de trois enfants.
 
 Je suis de formation, technicien en électrotechnique et autoditact en programmation depuis l´âge de 13ans [Atari](https://www.youtube.com/watch?v=gA-euwYrAzw).
 
