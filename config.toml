@@ -40,7 +40,7 @@ author = "authors"
 name = "Github"
 icon = "fa fa-github"
 weight = 1
-url = "https://github.com/stephend-shopopop/"
+url = "https://github.com/stephen-shopopop/"
 
 [[params.social]]
 name = "Twitter"
